@@ -40,3 +40,5 @@ write_csv(
   x = raw_data,
   file = "data/raw_data/raw_data.csv"
 )
+
+
