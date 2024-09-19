@@ -11,6 +11,7 @@
 
 #### Workspace setup ####
 library(dplyr)
+library(readr)
 library(tidyr)
 library(lubridate)
 
